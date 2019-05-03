@@ -1,0 +1,2 @@
+# theschoolofAI
+assignment at tsai
